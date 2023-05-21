@@ -1,0 +1,8 @@
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\bin\Debug\Amelina_App5.exe.config
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\bin\Debug\Amelina_App5.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\bin\Debug\Amelina_App5.pdb
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\obj\Debug\Amelina_App5.csproj.AssemblyReference.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\obj\Debug\Amelina_App5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\obj\Debug\Amelina_App5.csproj.CoreCompileInputs.cache
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\obj\Debug\Amelina_App5.exe
+C:\Users\Едуард\Desktop\Уроки_4Курс\Теорія росподілених систем\Програма_1\Amelina_App5\Amelina_App5\obj\Debug\Amelina_App5.pdb
